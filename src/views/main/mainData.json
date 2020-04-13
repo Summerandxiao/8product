@@ -1,0 +1,75 @@
+{
+  "banner": [
+    {
+      "url": "",
+      "name": "banner1.jpg",
+      "image": ""
+    },
+    {
+      "url": "",
+      "name": "banner2.jpg",
+      "image": ""
+    },
+    {
+      "url": "",
+      "name": "banner3.jpg",
+      "image": ""
+    }
+  ],
+  "modules": [
+    {
+      "label": "我的待办",
+      "name": "todo.png",
+      "image": "",
+      "url": "/backlog"
+    },
+    {
+      "label": "我的发票",
+      "name": "invoice.png",
+      "image": "",
+      "url": "/invoice"
+    },
+    {
+      "label": "我的报销",
+      "name": "reimbursement.png",
+      "image": "",
+      "url": "/reimbursement"
+    },
+    {
+      "label": "智慧餐厅",
+      "name": "canting1.png",
+      "image": "",
+      "url": "/diningHall"
+    },
+    {
+      "label": "我的投递",
+      "name": "deliver.png",
+      "image": "",
+      "url": "/myDeliver"
+    },
+    {
+      "label": "通知公告",
+      "name": "notice.png",
+      "image": "",
+      "url": "/article"
+    },
+    {
+      "label": "项目经费",
+      "name": "pro.png",
+      "image": "",
+      "url": "/proFund"
+    },
+    {
+      "label": "部门经费",
+      "name": "dep.png",
+      "image": "",
+      "url": "/depFund"
+    },
+    {
+      "label": "部门项目经费",
+      "name": "depPro.png",
+      "image": "",
+      "url": "/depProFund"
+    }
+  ]
+}
