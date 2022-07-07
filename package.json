@@ -19,7 +19,7 @@
     "js-md5": "^0.7.3",
     "mint-ui": "^2.2.13",
     "mockjs": "^1.0.1-beta3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "vee-validate": "^3.0.11",
     "vue": "^2.6.10",
     "vue-mobile-calendar": "^3.3.0",
